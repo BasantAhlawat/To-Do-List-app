@@ -22,6 +22,6 @@ Tools And Technologies used :-
 
 ![App Snapshot](https://github.com/BasantAhlawat/To-Do-List-app/blob/master/images/Screenshot%20(593).png?raw=true)
 
-Github Pages Link to app: 
+Link to app: 
 
  https://tranquil-refuge-94828.herokuapp.com/
