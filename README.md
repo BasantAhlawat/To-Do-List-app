@@ -19,7 +19,7 @@ Tools And Technologies used :-
 
 •	Heroku App Platform used for deployment
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![App Snapshot](https://github.com/BasantAhlawat/To-Do-List-app/blob/master/images/Screenshot%20(593).png?raw=true)
 ![App Snapshot](https://github.com/BasantAhlawat/To-Do-List-app/blob/master/Screenshot-(593).png?raw=true)
 
 Github Pages Link to app: 
